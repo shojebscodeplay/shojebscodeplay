@@ -1,8 +1,4 @@
-<!-- Centered Banner Image -->
-<p align="center">
-  <a href="https://rishavchanda.io">
-[![MasterHead](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)][![MasterHead](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)]  </a>
-</p>
+[![MasterHead](	https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
 
 
 <!-- Animated Text Effect for Name -->
