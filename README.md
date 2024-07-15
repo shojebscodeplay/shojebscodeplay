@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MD. Shojeb Hossain Shojol</h1>
 <h3 align="center">Recent Graduate(ETE,RUET).A passionate AI/ML and front-end developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/7de37139d0b4c1c…e73686f74732f363538313234332f6176656e746f2e676966](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1c…e73686f74732f363538313234332f6176656e746f2e676966](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg"
 - 🔭 I’m currently working on **LLM project**
 
 - 🌱 I’m currently learning **LLM**
