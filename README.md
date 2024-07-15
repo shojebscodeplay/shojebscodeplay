@@ -6,7 +6,7 @@
   <span style="font-size: 2.5em; font-weight: bold; color: #f36f6f; text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);">
     Hi 👋, I'm <br> <span style="color: #f36f6f; font-style: italic;">MD. Shojeb Hossain Shojol</span>
   </span>
-</h1><h3 align="center">Recent Graduate (ETE, RUET). A passionate AI/ML and front-end developer from Bangladesh.</h3>
+</h1><h3 align="center">Recent Graduate (ETE, RUET). A passionate AI/ML and Front-end developer from Bangladesh.</h3>
 
 - 🔭 I’m currently working on **LLM project**
 - 🌱 I’m currently learning **LLM**
