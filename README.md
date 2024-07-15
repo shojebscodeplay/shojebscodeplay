@@ -1,7 +1,11 @@
 <!-- Centered Banner Image -->
 <p align="center">
-  [![MasterHead](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)]
+  <a href="https://rishavchanda.io">
+    ![MasterHead](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)
+  </a>
 </p>
+
+
 <!-- Animated Text Effect for Name -->
 <h1 align="center">
   <span style="font-size: 2.5em; font-weight: bold; color: #f36f6f; text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);">
